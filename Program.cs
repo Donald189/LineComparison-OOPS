@@ -8,11 +8,11 @@ namespace LineComparison_OOPS
         {
             Console.WriteLine("Welcome to Line Comparison Computation Program Using OOPS\n");
 
-            LengthCalculation lengthCalculation = new LengthCalculation();
-            lengthCalculation.LineLengthCalculation();
+            //LengthCalculation lengthCalculation = new LengthCalculation();
+            //lengthCalculation.LineLengthCalculation();
 
-            //Equality equality = new Equality();
-            //equality.EqualityOfTwoLengths();
+            Equality equality = new Equality();
+            equality.EqualityOfTwoLengths();
 
             //LengthCompare lengthCompare = new LengthCompare();
             //lengthCompare.LengthComparisson();
