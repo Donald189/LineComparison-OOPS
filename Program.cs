@@ -11,11 +11,11 @@ namespace LineComparison_OOPS
             //LengthCalculation lengthCalculation = new LengthCalculation();
             //lengthCalculation.LineLengthCalculation();
 
-            Equality equality = new Equality();
-            equality.EqualityOfTwoLengths();
+            //Equality equality = new Equality();
+            //equality.EqualityOfTwoLengths();
 
-            //LengthCompare lengthCompare = new LengthCompare();
-            //lengthCompare.LengthComparisson();
+            LengthCompare lengthCompare = new LengthCompare();
+            lengthCompare.LengthComparisson();
         }
     }
 }
